@@ -1,2 +1,2 @@
 # Dijkstra_algorithm
-This project visualizes the Dijkstra's Algorithm in a web interface.
+This project visualizes the Dijkstra's Algorithm in a web interface. The user can modify the graph by add new edges and vertices. The user can delete edges and vertices from the graph. The user can also drag the different vertices of the graph to change the weights on the edges as these are determined by the relative distance between the vertices on the screen. The starting vertex and ending vertex can be selected and then the algorithm can be excuted. The web interface visually shows the steps taken by the algorithm and the nodes that are visited. Finally It shows the the shortest path between the starting vertex and the ending vertex.
